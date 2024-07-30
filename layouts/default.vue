@@ -3,7 +3,9 @@
       <Header />
   
   
-      <slot />
+      <div>
+        <slot />
+      </div>
       <Footer />
 
     </div>
