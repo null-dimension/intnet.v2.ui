@@ -1,1 +1,0 @@
-import{_ as a,c as o,t as r,P as n,o as s}from"./D7zSCYFi.js";const t={};function c(e,_){return s(),o("div",null,r((e._.provides[n]||e.$route).params.name),1)}const m=a(t,[["render",c]]);export{m as default};
