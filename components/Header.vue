@@ -9,13 +9,13 @@
             <NuxtLink to="/" class="text-lg align-middle">Home</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/about" class="text-lg align-middle">About</NuxtLink>
-          </li>
-          <li>
             <NuxtLink to="/login" class="text-lg align-middle">Login</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/register" class="text-lg align-middle">Register</NuxtLink>
+          </li>
+          <li>
+            <NuxtLink to="/about" class="text-lg align-middle">About</NuxtLink>
           </li>
           <li>
             <ClientOnly>
